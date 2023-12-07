@@ -20,9 +20,9 @@ class CustomExcecption(Exception):
         self.error_message=error_message_detail(error_message,error_details=error_detail)
 
 
-if __name__=="__main__":    
-    try:
-        a=1/0
-    except Exception as e:
-        logging.info("Divide by 0 error.")
-        raise CustomExcecption(e,sys)
+# if __name__=="__main__":    
+#     try:
+#         a=1/0
+#     except Exception as e:
+#         logging.info("Divide by 0 error.")
+#         raise CustomExcecption(e,sys)
