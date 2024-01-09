@@ -14,5 +14,5 @@ pip install requirements.txt
 python app.py
 ```
 4. Demo
-https://github.com/Kishor978/MLproject_end_to_end/assets/86048775/d5dcc66d-fa58-47a8-9d0e-9bfee25b632c
 
+https://github.com/Kishor978/MLproject_end_to_end/assets/86048775/830ed44d-7135-4c9e-9d7d-80eae9dc2296
